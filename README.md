@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Divyansh10100
-- 👀 I’m interested in scripting, web developing, Data Science and machine learning
+- 👀 I’m interested in scripting, automation testing, web development, Data Science and machine learning
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ML/DS projects
 - 📫 How to reach me - Mail me
