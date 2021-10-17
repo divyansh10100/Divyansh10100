@@ -3,7 +3,7 @@
 
 <p align='center'>
 <a href="https://twitter.com/D_ivy_ansh"><img height="30" src="https://github.com/Divyansh10100/Divyansh10100/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/"><img height="30" src="https://github.com/Divyansh10100/Divyansh10100/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/"><img height="30" src="https://github.com/Divyansh10100/Divyansh10100/blob/main/icon/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/divyansh-pandey-430214204/"><img height="30" src="https://github.com/Divyansh10100/Divyansh10100/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
